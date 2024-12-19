@@ -1,0 +1,26 @@
+# Ignore everything 
+*
+
+# Do not ignore the .gitignore file itself 
+!/.gitignore
+!README.md
+# Do not ignore specific files and directories
+
+# Step down into the datasets directory
+!/
+
+# Do not ignore specific files in subdirectories 
+# !/datasets/ 
+!kagglish.ipynb
+!dataPrep_p_value.ipynb
+!skewness.ipynb
+
+!submission
+!submission/submission.zip
+
+
+
+# Ignore the virtual environment directory
+venv
+
+# Do not ignore the specific notebook file
