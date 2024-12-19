@@ -11,9 +11,11 @@
 
 # Do not ignore specific files in subdirectories 
 # !/datasets/ 
+!py_submission.ipynb
 !kagglish.ipynb
 !dataPrep_p_value.ipynb
 !skewness.ipynb
+!rpy2_hybrid_notebook.ipynb
 
 !submission
 !submission/submission.zip
